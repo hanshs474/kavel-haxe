@@ -1,0 +1,11 @@
+{
+  "name": "kavel",
+  "url": "https://github.com/hanshs474/kavel-haxe",
+  "license": "MIT",
+  "tags": ["ai", "image", "image-generation", "http", "api", "cross"],
+  "description": "Generate AI images with Kavel from Haxe: one call, no key needed for a first try",
+  "version": "0.1.0",
+  "classPath": "src/",
+  "releasenote": "First release: Kavel.generate() for sys targets",
+  "contributors": ["kavel"]
+}
